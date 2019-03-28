@@ -8,3 +8,4 @@
 ||github.io
 ||ant.design
 ||reactjs.org
+||cdninstagram.com
