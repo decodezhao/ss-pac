@@ -2,6 +2,7 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var domains = {
+  "g.co":1,
   "cdninstagram.com":1,
   "reactjs.org":1,
   "ant.design":1,

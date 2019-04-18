@@ -9,3 +9,4 @@
 ||ant.design
 ||reactjs.org
 ||cdninstagram.com
+||g.co
