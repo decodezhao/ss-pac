@@ -3,6 +3,7 @@
 
 var domains = {
   "g.co":1,
+  "github.io",
   "cdninstagram.com":1,
   "reactjs.org":1,
   "ant.design":1,
