@@ -11,3 +11,6 @@
 ||cdninstagram.com
 ||g.co
 ||github.io
+||chromium.org
+||imgur.com
+||github.io

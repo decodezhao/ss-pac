@@ -2,6 +2,9 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var domains = {
+  "chromium.org":1,
+  "imgur.com":1,
+  "github.io":1,
   "g.co":1,
   "github.io",
   "cdninstagram.com":1,
